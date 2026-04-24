@@ -11,6 +11,10 @@ bounding boxes with class labels and confidence scores.
 - YOLOv8 (Ultralytics)
 - Pretrained weights: `yolov8n.pt`
 
+OUTPUT -
+
+https://drive.google.com/file/d/1EV7zAvnA_AKTTVdEBQ1YA5ZU2WPJtn25/view?usp=drive_link
+
 ---
 
 ## Implementation
@@ -27,8 +31,6 @@ results = model("bus.jpg", save=True)
 
 print("Detection completed. Output saved in runs/detect/")
 
-OUTPUT -
 
-https://drive.google.com/file/d/1EV7zAvnA_AKTTVdEBQ1YA5ZU2WPJtn25/view?usp=drive_link
 
 
