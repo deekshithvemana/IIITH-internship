@@ -25,3 +25,6 @@ provides bounding boxes.
 OUTPUTS LINK-
 https://drive.google.com/drive/folders/1zUbJBTyGqU1vesFbtqE22vwR1B3c9t8D?usp=drive_link
 
+Metrics LINK-
+https://drive.google.com/drive/folders/1sZTVwZhK1aCObKPpknxZ3rlhNJMM9ceP?usp=drive_link
+
