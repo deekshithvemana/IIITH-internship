@@ -22,3 +22,6 @@ Performed semantic segmentation using YOLOv8 segmentation model.
 Segmentation assigns a class to each pixel, unlike detection which only 
 provides bounding boxes.
 
+OUTPUTS LINK-
+https://drive.google.com/drive/folders/1zUbJBTyGqU1vesFbtqE22vwR1B3c9t8D?usp=drive_link
+
