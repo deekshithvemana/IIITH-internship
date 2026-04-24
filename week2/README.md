@@ -27,3 +27,8 @@ results = model("bus.jpg", save=True)
 
 print("Detection completed. Output saved in runs/detect/")
 
+OUTPUT -
+
+https://drive.google.com/file/d/1EV7zAvnA_AKTTVdEBQ1YA5ZU2WPJtn25/view?usp=drive_link
+
+
